@@ -9,3 +9,10 @@ Finished building on 31 March of 2021
 - ausgeben -> write current cell value to output (Value in Composter: 4)
 - while -> starts a do while loop (Value in Composter: 1)
 - endwhile -> ends a do while loop, jumps back if current cell is not ZERO (Value in Composter: 2)
+
+## Stats
+- Instuction Memory: 61
+- Width: 10
+- Height: 10
+- Depth: 20
+- MaxSpeed: Ever 15/20 of a second
