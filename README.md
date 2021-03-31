@@ -1,5 +1,10 @@
 # LEN (LixEntNow)
 
+## Version history
+- ??.?? 2018 LixEnt
+- 03.28 2021 LixEntNow Mark1
+- 03.31 2021 LixEntNow Mark2
+
 ## Instruction Set
 - +1 -> increment current cell (Value in Composter: 3)
 - -1 -> decrement current cell (Value in Composter: 5)
