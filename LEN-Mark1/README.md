@@ -1,5 +1,5 @@
 # LENmk1 (LixEntNow Mark 1)
-Finished buiklding on 28 March of 2021
+Finished building on 28 March of 2021
 
 ## Instruction Set
 - +1 -> increment current cell (Value in Composter: 3)
