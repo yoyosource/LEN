@@ -1,6 +1,7 @@
 {
 	name(LEN-Mark1)
 	aliases[mk1, len-mk1]
+	instructionCount(65)
 	instructions[
 		{
 			name(+1)
