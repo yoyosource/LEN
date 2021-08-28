@@ -1,0 +1,38 @@
+{
+	name(LEN-Mark1)
+	aliases[mk1, len-mk1]
+	instructions[
+		{
+			name(+1)
+			aliases[++]
+			value(3)
+		},
+		{
+			name(-1)
+			aliases[--]
+			value(5)
+		},
+		{
+			name(rotate)
+			value(7)
+		},
+		{
+			name(input)
+			value(6)
+		},
+		{
+			name(output)
+			value(4)
+		},
+		{
+			name(while)
+			aliases[\{]
+			value(1)
+		},
+		{
+			name(endwhile)
+			aliases[\}]
+			value(2)
+		}
+	]
+}
