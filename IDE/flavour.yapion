@@ -2,7 +2,7 @@
 	@name(Flavour)
 	name!(STRING)
 	aliases(STRING[])
-	instructionCount{
+	instructionCount!{
 		@type(INT)
 		constraints(i -> i >= 0)
 	}
@@ -16,5 +16,5 @@
 			constraints(i -> i >= 0 && i <= 8)
 		}
 	}
-	instructions(@instruction[])
+	instructions!(@instruction[])
 }
