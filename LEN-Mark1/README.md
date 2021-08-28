@@ -10,10 +10,12 @@ Finished buiklding on 28 March of 2021
 - while -> starts a do while loop (Value in Composter: 1)
 - endwhile -> ends a do while loop, jumps back if current cell is not ZERO (Value in Composter: 2)
 
-## Stats
-- Instuction Memory: 65
+## Specs
 - Width: 10
 - Height: 10
 - Depth: 20
-- MaxSpeed: Every 7/20 of a second
-- Ram: 4 values
+- AU (Arithmetic Unit) 11-12 ticks
+- Ram: 4 Variables
+- Program tape: onedirectional, 65 cells, jump 1 cell in 8/20 of a second
+- DigOut: 15 individual values
+- Binary In
