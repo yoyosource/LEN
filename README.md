@@ -10,10 +10,10 @@ The Project "Lixent" was started in 2018 by Lixfel and xEntex4 with the goal to 
 - 08.28 2021 LixEntNow Mark3
 
 ## Instruction Set
-- +1 -> increment current cell (Value in Composter: 3)
-- -1 -> decrement current cell (Value in Composter: 5)
-- rotieren -> rotate to next cell (Value in Composter: 7)
-- eingeben -> read input and put value in currently active cell (Value in Composter: 6)
-- ausgeben -> write current cell value to output (Value in Composter: 4)
-- while -> starts a do while loop (Value in Composter: 1)
-- endwhile -> ends a do while loop, jumps back if current cell is not ZERO (Value in Composter: 2)
+- +1 -> increment current cell
+- -1 -> decrement current cell
+- rotate -> rotate to next cell
+- input -> read input and put value in currently active cell
+- output -> write current cell value to output
+- while -> starts a do while loop
+- endwhile -> ends a do while loop, jumps back if current cell is not ZERO
