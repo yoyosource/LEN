@@ -15,7 +15,7 @@
 +1
 +1
 while
-rotieren
+rotate
 +1
 +1
 +1
@@ -33,11 +33,11 @@ rotieren
 +1
 +1
 while
-ausgeben
+output
 -1
 endwhile
-rotieren
-rotieren
-rotieren
+rotate
+rotate
+rotate
 -1
 endwhile
