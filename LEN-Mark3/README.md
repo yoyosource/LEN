@@ -15,5 +15,5 @@ Finished building on 28 August of 2021
 - Width: 10
 - Height: 10
 - Depth: 20
-- MaxSpeed: Ever 13/20 of a second
+- MaxSpeed: Every 15/20 of a second
 - Ram: 8 values
