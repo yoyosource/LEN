@@ -16,3 +16,4 @@ Finished buiklding on 28 March of 2021
 - Height: 10
 - Depth: 20
 - MaxSpeed: Ever 7/20 of a second
+- Ram: 4 values
