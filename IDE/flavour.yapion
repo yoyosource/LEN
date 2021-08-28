@@ -1,0 +1,20 @@
+{
+	@name(Flavour)
+	name!(STRING)
+	aliases(STRING[])
+	instructionCount{
+		@type(INT)
+		constraints(i -> i >= 0)
+	}
+	instruction{
+		@name(Instruction)
+		@hidden(true)
+		name!(STRING)
+		aliases(STRING[])
+		value!{
+			@type(INT)
+			constraints(i -> i >= 0 && i <= 8)
+		}
+	}
+	instructions(@instruction[])
+}
