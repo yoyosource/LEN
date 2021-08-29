@@ -2,14 +2,15 @@
 	name(LEN-Mark1)
 	aliases[mk1, len-mk1]
 	instructionCount(65)
+	memoryCount(4)
 	instructions[
 		{
-			name(+1)
+			name("+1")
 			aliases[++]
 			value(3)
 		},
 		{
-			name(-1)
+			name("-1")
 			aliases[--]
 			value(5)
 		},

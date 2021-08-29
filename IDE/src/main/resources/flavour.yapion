@@ -6,6 +6,10 @@
 		@type(INT)
 		constraints(i -> i >= 0)
 	}
+	memoryCount!{
+	    @type(INT)
+        constraints(i -> i >= 0)
+	}
 	instruction{
 		@name(Instruction)
 		@hidden(true)
@@ -16,5 +20,5 @@
 			constraints(i -> i >= 0 && i <= 8)
 		}
 	}
-	instructions!(@instruction[])
+	instructions!(@Instruction[])
 }

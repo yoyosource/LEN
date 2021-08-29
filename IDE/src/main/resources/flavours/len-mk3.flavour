@@ -1,0 +1,40 @@
+{
+	name(LEN-Mark3)
+	aliases[mk3, len-mk3]
+	instructionCount(61)
+	memoryCount(8)
+	instructions[
+		{
+			name("+1")
+			aliases[++]
+			value(3)
+		},
+		{
+			name("-1")
+			aliases[--]
+			value(5)
+		},
+		{
+			name(rotate)
+			value(6)
+		},
+		{
+			name(input)
+			value(7)
+		},
+		{
+			name(output)
+			value(4)
+		},
+		{
+			name(while)
+			aliases[\{]
+			value(1)
+		},
+		{
+			name(endwhile)
+			aliases[\}]
+			value(2)
+		}
+	]
+}
