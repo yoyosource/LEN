@@ -9,3 +9,4 @@ The Project "Lixent" was started in 2018 by Lixfel and xEntex4 with the goal to 
 - 03.31 2021 LixEntNow Mark2
 - 08.28 2021 LixEntNow Mark3
 - 08.28 2021 LixEntNow Mark3 Advanced
+- 08.29 2021 LixEntNow Mikro
