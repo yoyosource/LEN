@@ -16,7 +16,7 @@ sourceCompatibility = '1.11'
 compileJava.options.encoding = 'UTF-8'
 compileTestJava.options.encoding = 'UTF-8'
 
-mainClassName = 'de.len.IDE'
+mainClassName = 'de.len.Init'
 
 dependencies {
     compileOnly 'org.projectlombok:lombok:1.18.20'
